@@ -58,3 +58,9 @@ Atualmente, estou me aprofundando nas seguintes tecnologias e práticas:
 🌐 **LinkedIn:** [Miguel Fazio de Assunção](https://www.linkedin.com/in/miguel-fazio-de-assun%C3%A7%C3%A3o/)
 
 Em busca de um futuro melhor e mais tecnológico ☕
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MiguelFazioAssuncao/MiguelFazioAssuncao/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MiguelFazioAssuncao/MiguelFazioAssuncao/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MiguelFazioAssuncao/MiguelFazioAssuncao/output/github-contribution-grid-snake.svg">
+</picture>
