@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou o **Miguel Fazio de Assunção**
 
-Seja bem-vindo ao meu GitHub! 🚀
+Seja bem-vindo(a) ao meu GitHub! 🚀
 
 ## 📚 Sobre mim
 🎓 Sou um estudante apaixonado por tecnológia que busca aprender continuamente e melhorar cada vez mais. Estou em busca de aperfeiçoar meus conhecimentos tanto no frontend quanto backend.
