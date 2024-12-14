@@ -27,10 +27,6 @@ Atualmente, estou me aprofundando nas seguintes tecnologias e práticas:
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![SpringBoot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 
-- Desenvolvimento de APIs REST com **Spring Boot** 🧩
-- Boas práticas no desenvolvimento frontend com **Angular** 🌐
-- Conceitos avançados de **Java** ☕
-
 ---
 
 ## 🛠️ Ferramentas que utilizo
