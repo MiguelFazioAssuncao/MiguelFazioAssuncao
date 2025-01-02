@@ -49,7 +49,7 @@ Atualmente, estou me aprofundando nas seguintes tecnologias:
 ---
 
 ## 📬 Entre em contato
-📧 **Email:** [faziomiguel0@gmail.com](mailto:faziomiguel@gmail.com)
+📧 **Email:** [miguelfaziodeassuncao@gmail.com](mailto:miguelfaziodeassuncao@gmail.com)
 
 🌐 **LinkedIn:** [Miguel Fazio de Assunção](https://www.linkedin.com/in/miguel-fazio-de-assun%C3%A7%C3%A3o/)
 
