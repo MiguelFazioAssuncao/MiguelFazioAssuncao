@@ -50,8 +50,9 @@ Atualmente, estou me aprofundando nas seguintes tecnologias:
 
 ## 📬 Entre em contato
 📧 **Email:** [miguelfaziodeassuncao@gmail.com](mailto:miguelfaziodeassuncao@gmail.com)
-
 🌐 **LinkedIn:** [Miguel Fazio de Assunção](https://www.linkedin.com/in/miguel-fazio-de-assun%C3%A7%C3%A3o/)
+📱 **Instagram:** [@miguel_fazio_](https://www.instagram.com/miguel_fazio_/)
+
 
 Em busca de um futuro melhor e mais tecnológico ☕
 
