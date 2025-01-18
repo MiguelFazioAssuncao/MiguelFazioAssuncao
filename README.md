@@ -7,7 +7,7 @@ Seja bem-vindo(a) ao meu GitHub! 🚀
 
 💻 Atualmente focado em:
 - Backend: **Java** & **Spring Boot**
-- Frontend: **Angular**, **HTML** & **CSS**
+- Frontend: **Angular**, **typescript**, **javascript**, **HTML** & **CSS**
 
 ---
 
