@@ -1,6 +1,6 @@
-# 👋 Olá! Eu sou o **Miguel Fazio de Assunção**
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2368C8&height=150&section=header"/>
 
-Seja bem-vindo(a) ao meu GitHub! 🚀
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=367CD&size=35&center=true&vCenter=true&width=1000&lines=Ola+sou+Miguel+Fazio+de+Assunção;Técnico+em+análise+e+desenvolvimento+de+sistemas;Seja+bem+vindo!+:%29)](https://git.io/typing-svg)
 
 ## 📚 Sobre mim
 🎓 Sou um estudante apaixonado por tecnológia que busca aprender continuamente e melhorar cada vez mais. Estou em busca de aperfeiçoar meus conhecimentos tanto no frontend quanto backend.
@@ -50,3 +50,5 @@ Em busca de um futuro melhor e mais tecnológico ☕
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MiguelFazioAssuncao/MiguelFazioAssuncao/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MiguelFazioAssuncao/MiguelFazioAssuncao/output/github-contribution-grid-snake.svg">
 </picture>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2368C8&height=120&section=footer"/>
