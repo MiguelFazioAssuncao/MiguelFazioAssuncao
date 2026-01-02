@@ -50,17 +50,6 @@ Tenho interesse em construir soluções bem estruturadas, com código organizado
 
 ---
 
-## 📊 Estatísticas GitHub
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MiguelFazioAssuncao&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelFazioAssuncao&layout=compact&theme=radical)
-
-</div>
-
----
-
 ## 📫 Contato
 
 - 📧 **Email:** miguelfaziodeassuncao@gmail.com  
