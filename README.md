@@ -47,6 +47,8 @@ Tenho interesse em construir soluções bem estruturadas, com código organizado
 
 - Angular (arquitetura, componentes e boas práticas)
 - Conceitos e práticas de DevOps
+- C++ focado em programação competitiva (lógica, algoritmos e estruturas de dados)
+
 
 ---
 
