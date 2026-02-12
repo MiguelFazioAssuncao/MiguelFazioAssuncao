@@ -6,21 +6,22 @@
 <p align="center">
   <a href="mailto:miguelfaziodeassuncao@gmail.com">Email</a> •
   <a href="https://www.linkedin.com/in/miguel-fazio-de-assun%C3%A7%C3%A3o/">LinkedIn</a> •
-  <a href="https://www.instagram.com/miguel_fazio_/">Instagram</a>
+  <a href="https://miguelfazio-portfolio.vercel.app/">Portfolio</a>
 </p>
 
 ---
 
-## 👨‍💻 Sobre mim
+## 👨‍💻 About Me
 
-Sou desenvolvedor de software com formação técnica em **Análise e Desenvolvimento de Sistemas**.  
-Atuo no desenvolvimento de aplicações **web full stack**, trabalhando tanto no backend quanto no frontend.
+Full Stack Developer with a technical degree in Systems Development and currently pursuing a Bachelor's degree in Computer Science.
 
-Tenho interesse em construir soluções bem estruturadas, com código organizado, foco em boas práticas e aprendizado constante.
+I specialize in building scalable backend systems using **Java and Spring Boot**, and modern frontend applications with **Angular and React**.
+
+I value clean architecture, well-structured code, security best practices, and continuous learning.
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+## 🛠️ Tech Stack
 
 ### Backend
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
@@ -32,36 +33,44 @@ Tenho interesse em construir soluções bem estruturadas, com código organizado
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
-### Estilização & Versionamento
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-0F172A?style=flat&logo=tailwindcss&logoColor=38BDF8)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-2C2C54?style=flat&logo=bootstrap&logoColor=7952B3)
+### Database & Tools
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ---
 
-## 📚 Atualmente estudando
+## 🚀 Highlight Project
 
-- Angular (arquitetura, componentes e boas práticas)
-- Conceitos e práticas de DevOps
-- C++ focado em programação competitiva (lógica, algoritmos e estruturas de dados)
+### 💬 Chat Web – Real-Time Messaging Platform
+- Full stack application with **JWT authentication**
+- Real-time communication using **WebSocket**
+- Friend system and private conversations
+- Layered architecture with PostgreSQL persistence
 
+🔗 [View Project](https://github.com/MiguelFazioAssuncao/chat-web)
 
 ---
 
-## 📫 Contato
+## 📚 Currently Learning
+
+- Advanced Angular architecture
+- DevOps fundamentals (Docker, CI/CD concepts)
+- Competitive programming with C++ (algorithms & data structures)
+
+---
+
+## 📫 Contact
 
 - 📧 **Email:** miguelfaziodeassuncao@gmail.com  
 - 💼 **LinkedIn:** [Miguel Fazio de Assunção](https://www.linkedin.com/in/miguel-fazio-de-assun%C3%A7%C3%A3o/)  
-- 📱 **Instagram:** [@miguel_fazio_](https://www.instagram.com/miguel_fazio_/)
+- 🌐 **Portfolio:** https://miguelfazio-portfolio.vercel.app/
 
 ---
 
 <p align="center">
-  Buscando evoluir tecnicamente e profissionalmente como desenvolvedor.
+  Building scalable applications and continuously improving as a software engineer.
 </p>
 
 <picture align="center">
