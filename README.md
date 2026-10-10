@@ -1,80 +1,86 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=2368C8&height=150&section=header"/>
+<div align="center">
 
-<h1 align="center">Miguel Fazio de Assunção</h1>
-<h3 align="center">Software Developer • Full Stack</h3>
+# Hi, I'm Miguel Fazio 👋
 
-<p align="center">
-  <a href="mailto:miguelfaziodeassuncao@gmail.com">Email</a> •
-  <a href="https://www.linkedin.com/in/miguel-fazio-de-assun%C3%A7%C3%A3o/">LinkedIn</a> •
-  <a href="https://miguelfazio-portfolio.vercel.app/">Portfolio</a>
-</p>
+### Full Stack Developer
 
----
+**Code with purpose. From start to finish.**
 
-## 👨‍💻 About Me
+I turn ideas into complete applications — from interface experience to the logic that makes everything work.
 
-Full Stack Developer with a technical degree in Systems Development and currently pursuing a Bachelor's degree in Computer Science.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-C4B5FD?style=for-the-badge)](https://www.linkedin.com/in/miguel-fazio-de-assun%C3%A7%C3%A3o/)
+[![Email](https://img.shields.io/badge/Email-Let's_talk-A7F3D0?style=for-the-badge)](mailto:miguelfaziodeassuncao@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Explore_the_code-FED7AA?style=for-the-badge&logo=github&logoColor=18181B)](https://github.com/MiguelFazioAssuncao/portfolio)
 
-I specialize in building scalable backend systems using **Java and Spring Boot**, and modern frontend applications with **Angular and React**.
+*Always learning. Always building.*
 
-I value clean architecture, well-structured code, security best practices, and continuous learning.
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+## Beyond the code
 
-### Backend
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+I'm **Miguel Fazio de Assunção**, a full stack developer passionate about technology. I work across interfaces, APIs, and systems, with Java, React, TypeScript, Angular, and Go.
 
-### Frontend
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+I like to understand the problem, organize ideas, and build an experience that makes sense for the user. Curiosity is my starting point; code is the tool to turn ideas into something concrete.
 
-### Database & Tools
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+- **Care in every interaction:** clear, responsive interfaces with attention to detail.
+- **Structure to evolve:** organized code, best practices, and well-crafted solutions.
+- **Curiosity in motion:** new languages, new challenges, and constant learning.
+
+## The stack behind it all
+
+**Front-end**
+
+![React](https://img.shields.io/badge/React-18181B?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-18181B?style=flat-square&logo=typescript&logoColor=3178C6)
+![Next.js](https://img.shields.io/badge/Next.js-18181B?style=flat-square&logo=nextdotjs&logoColor=FFFFFF)
+![Angular](https://img.shields.io/badge/Angular-18181B?style=flat-square&logo=angular&logoColor=DD0031)
+![JavaScript](https://img.shields.io/badge/JavaScript-18181B?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-18181B?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
+
+**Back-end, data, and systems**
+
+![Java](https://img.shields.io/badge/Java-18181B?style=flat-square)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-18181B?style=flat-square&logo=springboot&logoColor=6DB33F)
+![Node.js](https://img.shields.io/badge/Node.js-18181B?style=flat-square&logo=nodedotjs&logoColor=5FA04E)
+![Go](https://img.shields.io/badge/Go-18181B?style=flat-square&logo=go&logoColor=00ADD8)
+![C](https://img.shields.io/badge/C-18181B?style=flat-square&logo=c&logoColor=A8B9CC)
+![C++](https://img.shields.io/badge/C%2B%2B-18181B?style=flat-square&logo=cplusplus&logoColor=00599C)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-18181B?style=flat-square&logo=postgresql&logoColor=4169E1)
+
+**Tools**
+
+![Docker](https://img.shields.io/badge/Docker-18181B?style=flat-square&logo=docker&logoColor=2496ED)
+![Git](https://img.shields.io/badge/Git-18181B?style=flat-square&logo=git&logoColor=F05032)
+
+> The right tool depends on the problem. The learning never stops.
+
+## Ideas that came to life
+
+| Project | What I built | Technologies |
+| :--- | :--- | :--- |
+| 💬 **[ChatWeb](https://github.com/MiguelFazioAssuncao/chat-web)** | Real-time chat with authentication and private rooms, connecting React and Java via WebSocket. | React · TypeScript · Java · Spring Boot · WebSocket |
+| 💳 **[TrustPay](https://github.com/MiguelFazioAssuncao/trustpay)** | Digital banking API with accounts, transactions, cards, loans, and integrated virtual store. | Java · Spring Boot · PostgreSQL |
+| 🚌 **[Bus App](https://github.com/MiguelFazioAssuncao/bus-app-sa)** | Route planning and real-time bus positions, with maps and integration with SPTrans Olho Vivo and GraphHopper. | React · JavaScript · Node.js · Leaflet |
+| 🔬 **[Runspect](https://github.com/MiguelFazioAssuncao/runspect.v1)** | Interactive C++17 algorithm lab with Monaco editor, data structure visualization, and step-by-step execution. | Next.js · TypeScript · Go · C++17 |
+
+↗ **[Explore all my repositories](https://github.com/MiguelFazioAssuncao?tab=repositories)**
+
+## A good idea starts with hello
+
+Have a project in mind, an opportunity, or want to chat about technology? Let's talk.
+
+- **Email:** [miguelfaziodeassuncao@gmail.com](mailto:miguelfaziodeassuncao@gmail.com)
+- **LinkedIn:** [Miguel Fazio de Assunção](https://www.linkedin.com/in/miguel-fazio-de-assun%C3%A7%C3%A3o/)
+- **Instagram:** [@miguel_fazio_](https://www.instagram.com/miguel_fazio_/)
 
 ---
 
-## 🚀 Highlight Project
+<div align="center">
 
-### 💬 Chat Web – Real-Time Messaging Platform
-- Full stack application with **JWT authentication**
-- Real-time communication using **WebSocket**
-- Friend system and private conversations
-- Layered architecture with PostgreSQL persistence
+**Creativity × Engineering**
 
-🔗 [View Project](https://github.com/MiguelFazioAssuncao/chat-web)
+<sub>Built with code and curiosity.</sub>
 
----
-
-## 📚 Currently Learning
-
-- Advanced Angular architecture
-- DevOps fundamentals (Docker, CI/CD concepts)
-- Competitive programming with C++ (algorithms & data structures)
-
----
-
-## 📫 Contact
-
-- 📧 **Email:** miguelfaziodeassuncao@gmail.com  
-- 💼 **LinkedIn:** [Miguel Fazio de Assunção](https://www.linkedin.com/in/miguel-fazio-de-assun%C3%A7%C3%A3o/)  
-- 🌐 **Portfolio:** https://miguelfazio-portfolio.vercel.app/
-
----
-
-<p align="center">
-  Building scalable applications and continuously improving as a software engineer.
-</p>
-
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MiguelFazioAssuncao/MiguelFazioAssuncao/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MiguelFazioAssuncao/MiguelFazioAssuncao/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MiguelFazioAssuncao/MiguelFazioAssuncao/output/github-contribution-grid-snake.svg">
-</picture>
+</div>
