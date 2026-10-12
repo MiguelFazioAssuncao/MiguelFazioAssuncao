@@ -10,7 +10,7 @@ I turn ideas into complete applications — from interface experience to the log
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-C4B5FD?style=for-the-badge)](https://www.linkedin.com/in/miguel-fazio-de-assun%C3%A7%C3%A3o/)
 [![Email](https://img.shields.io/badge/Email-Let's_talk-A7F3D0?style=for-the-badge)](mailto:miguelfaziodeassuncao@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Explore_the_code-FED7AA?style=for-the-badge&logo=github&logoColor=18181B)](https://github.com/MiguelFazioAssuncao/portfolio)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Explore_the_code-FED7AA?style=for-the-badge&logo=github&logoColor=18181B)](https://miguelfazio-portfolio.vercel.app)
 
 *Always learning. Always building.*
 
