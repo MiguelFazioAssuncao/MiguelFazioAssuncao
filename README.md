@@ -13,6 +13,7 @@
 
 **Code with purpose. From interface experience to distributed logic.**
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-miguelfazio.vercel.app-FED7AA?style=for-the-badge&logo=vercel&logoColor=18181B)](https://miguelfazio-portfolio.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Miguel_Fazio-C4B5FD?style=for-the-badge&logo=linkedin&logoColor=18181B)](https://www.linkedin.com/in/miguel-fazio-de-assun%C3%A7%C3%A3o/)
 [![Email](https://img.shields.io/badge/Email-Let's_Talk-A7F3D0?style=for-the-badge&logo=gmail&logoColor=18181B)](mailto:miguelfaziodeassuncao@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-@miguel__fazio__-FBCFE8?style=for-the-badge&logo=instagram&logoColor=18181B)](https://www.instagram.com/miguel_fazio_/)
@@ -100,7 +101,7 @@ principles:
   │                                                                          │
   │  ✉  miguelfaziodeassuncao@gmail.com                                      │
   │  in linkedin.com/in/miguel-fazio-de-assunção                             │
-  │  @  instagram.com/miguel_fazio_                                          │
+  │  ⌘  miguelfazio-portfolio.vercel.app                                     │
   ╰──────────────────────────────────────────────────────────────────────────╯
 ```
 
