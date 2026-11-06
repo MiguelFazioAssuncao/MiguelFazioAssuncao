@@ -14,7 +14,7 @@
 **Code with purpose. From interface experience to distributed logic.**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-miguelfazio.pages.dev-FED7AA?style=for-the-badge&logo=cloudflarepages&logoColor=18181B)](https://miguelfazio.pages.dev/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Miguel_Fazio-C4B5FD?style=for-the-badge&logo=linkedin&logoColor=18181B)](https://www.linkedin.com/in/miguel-fazio-de-assun%C3%A7%C3%A3o/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Miguel_Fazio-C4B5FD?style=for-the-badge&logo=linkedin&logoColor=18181B)](https://www.linkedin.com/in/miguelfazioassuncao/)
 [![Email](https://img.shields.io/badge/Email-Let's_Talk-A7F3D0?style=for-the-badge&logo=gmail&logoColor=18181B)](mailto:miguelfaziodeassuncao@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-@miguel__fazio__-FBCFE8?style=for-the-badge&logo=instagram&logoColor=18181B)](https://www.instagram.com/miguel_fazio_/)
 
@@ -100,7 +100,7 @@ principles:
   │  Have a project in mind, an opportunity, or want to talk tech?           │
   │                                                                          │
   │  ✉  miguelfaziodeassuncao@gmail.com                                      │
-  │  in linkedin.com/in/miguel-fazio-de-assunção                             │
+  │  in linkedin.com/in/miguelfazioassuncao                                  │
   │  ⌘  miguelfazio.pages.dev                                                │
   ╰──────────────────────────────────────────────────────────────────────────╯
 ```
